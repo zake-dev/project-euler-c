@@ -36,7 +36,7 @@ int main()
 
 /*******************************************************************************
 gcd
-This function calculate and return the Greatest Common Divior of a and b
+This function calculates and returns the Greatest Common Divior of a and b
 inputs:
 - a: positive integer number
 - b: positive integer number
@@ -58,7 +58,7 @@ unsigned long long gcd(unsigned long long a, unsigned long long b)
 
 /*******************************************************************************
 lcm
-This function calculate and return the Lowest Common Multiple of a and b
+This function calculates and returns the Lowest Common Multiple of a and b
 inputs:
 - a: positive integer number
 - b: positive integer number
@@ -72,4 +72,9 @@ unsigned long long lcm(unsigned long long a, unsigned long long b)
 
 /*******************************************************************************
 Result
+
+Smallest number that is evenly divisible
+by all of the numbers from 1 to 20:
+
+232792560
 *******************************************************************************/
